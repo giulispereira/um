@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+body{
+    font-size: "Montserrat", sans-serif ;
+}
+.cabecalho{
+    background-color: #020A13;
+    color: #ffffff;
+    font-family:  "Montserrat", sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.na:hover{
+     background-color: #041525;
+     padding: 1rem 1rem 1rem 1rem;
+     border-radius: 1rem;
+    
+}
+li{
+    list-style: none;
+    color: #101616;
+
+}
+.cabecalho-menu{
+    display: flex;
+    gap: 3rem;
+    padding: 2rem 2rem 2rem 4rem;
+    text-transform: uppercase;
+}
+
+.capa-site {
+    background-image: url('img/cape.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    width: 100%; 
+    height: 100vh; 
+}
+.ja{
+    display: flex;
+    font-size: 4rem;
+    padding: 10rem 20rem 0 20rem;
+    color: #ffffff;
+    font-family:  "Montserrat", sans-serif;
+    font-weight: normal;
+}
+.mar{
+    display: flex;
+    font-size: 6rem;
+    padding: 0 20rem 0 20rem;
+    color: #ffffff;
+    font-family:  "Montserrat", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.sub{
+    color: #ffffff;
+    font-family:  "Montserrat", sans-serif;
+    font-weight: lighter;
+    padding: 0 20rem 1rem 20rem;
+    font-size: 2rem;
+    letter-spacing: 0.6rem;
+}
+.botao {
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border: 1px solid #ffffff;
+    border-radius: 1rem;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: lighter;
+    font-family: "Mulish", sans-serif;
+    background-color: transparent;
+    margin: 1rem;
+    letter-spacing: 0.1rem;
+}
+.botao:hover{
+    background-color: #041525;
+    color: #f2f9ff;
+}
+.botaos{
+    margin: 0rem 23rem 4rem 23rem;
+    font-weight: lighter;
+    font-family: "Mulish", sans-serif;
+}
+.imgs{
+    display: flex;
+    padding: 16rem 50rem 1rem 3rem;
+}
+.img{
+    width: 40px; 
+  height: auto; 
+}
+.direi{
+    background-color: #000000;
+    color: #083258;
+    padding: 2rem 50rem 2.9rem 50rem ;
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: "Mulish", sans-serif;
+}
+.home{
+    color: #395c75;
+    font-weight: bold;
+}
