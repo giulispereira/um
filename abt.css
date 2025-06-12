@@ -19,9 +19,9 @@ a{
     color: #ffffff;
 }
 .na:hover{
-     background-color: #041525;
-     padding: 1rem 1rem 1rem 1rem;
-     border-radius: 1rem;
+        background-color: #041525;
+        padding: 1rem 1rem 1rem 1rem;
+        border-radius: 1rem;
     
 }
 li{
@@ -36,12 +36,16 @@ li{
     text-transform: uppercase;
 }
 .abt{
-     color: #395c75;
+        color: #395c75;
     font-weight: bold;
 }
 .inicio{
     font-size: "Montserrat", sans-serif;
-    display: flex
+    display: flex;
+}
+.textos{
+    flex-direction: column;
+    margin: 4rem;
 }
 .title{
     font-size: 30px;
