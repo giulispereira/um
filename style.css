@@ -47,14 +47,14 @@ li{
     text-transform: uppercase;
     flex-direction: column;
     line-height: 4rem;
-    font-size: 3rem;
-    padding: 10rem 20rem 0 20rem;
+    font-size: 4rem;
+    padding: 10rem 10rem 0.2rem 12rem;
     color: #ffffff;
     font-family:  "Montserrat", sans-serif;
     font-weight: normal;
 }
 .mar{
-    font-size: 5rem;
+    font-size: 6rem;
     color: #ffffff;
     font-family:  "Montserrat", sans-serif;
     font-weight: bold;
@@ -64,8 +64,8 @@ li{
     color: #ffffff;
     font-family:  "Montserrat", sans-serif;
     font-weight: lighter;
-    padding: 0 20rem 1rem 20rem;
-    font-size: 1.8rem;
+    padding: 0 15rem 1rem 12.4rem;
+    font-size: 2.2rem;
     letter-spacing: 0.4rem;
 }
 .botao {
@@ -85,7 +85,7 @@ li{
     color: #f2f9ff;
 }
 .botaos{
-    margin: 0rem 23rem 4rem 23rem;
+    margin: 0rem 10rem 4rem 15rem;
     font-weight: lighter;
     font-family: "Mulish", sans-serif;
 }
@@ -100,7 +100,7 @@ li{
 .direi{
     background-color: #000000;
     color: #083258;
-    padding: 2rem 50rem 2.9rem 50rem ;
+    padding: 5rem 50rem 10rem 50rem ;
     font-size: 14px;
     font-weight: lighter;
     font-family: "Mulish", sans-serif;

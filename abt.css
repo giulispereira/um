@@ -57,9 +57,18 @@ li{
     font-size: 15px;
     font-family: "Montserrat", sans-serif;
     color: #adadad;
+    padding: 0rem 10rem 3rem 9.8rem;
 }
 .text{
     font-size: 18px;
     font-family: "Montserrat", sans-serif;
     color: #e0e0e0;
+    padding: 3.5rem 13rem 15rem 10rem;
+}
+.final{
+    padding: 0 0 0 10rem;
+    font-family: "Montserrat", sans-serif;
+}
+.povo{
+    padding: 0 15rem;
 }
